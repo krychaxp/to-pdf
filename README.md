@@ -1,2 +1,2 @@
-# pdf-joiner
-You can join your pdf files to one
+# to-pdf
+You can merged specific files to one pdf

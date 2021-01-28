@@ -10,5 +10,5 @@
     `npm i` - instalujemy potrzebne paczki do uruchomienia tego skryptu
 
 - Zapamiętujemy tą ścieżkę, na której wpisywaliśmy komendy i udajemy się do niej poprzez Eksplorator plików
-- Wchodzimy do folderu 'enter-here' i wkładamy nasze pdf'y lub zdjęcia to odpowiednich folderów
-- Następnie klikamy odpowiedni 'merge-xxx.bat' i czekamy aż wygeneruje tam pdf. 
+- Wkładamy nasze zdjęcia png do folderu 'files'
+- Następnie klikamy 'merge-png.bat' i czekamy aż wygeneruje nam pdf. 

@@ -1,1 +1,1 @@
-node ../scripts/png.js
+node index.js
